@@ -21,3 +21,9 @@ print largest three digit numbers
 Problem statement-5
 Calculate Square Root of a Number
 <img width="1902" height="1027" alt="Screenshot 2025-08-17 231653" src="https://github.com/user-attachments/assets/f80cfc3c-08ad-471d-a678-87260d072f71" />
+
+
+Problem statement-6
+Print Multiplication Table
+<img width="1907" height="1031" alt="Screenshot 2025-08-17 232526" src="https://github.com/user-attachments/assets/5e245b6d-555d-4fd5-b63e-e01f6f12bc4d" />
+
