@@ -32,3 +32,19 @@ Problem statement-7
 Check if a Number is Prime 
 <img width="1918" height="1019" alt="Screenshot 2025-08-17 232942" src="https://github.com/user-attachments/assets/4d6423b5-2e4e-4a06-9ae5-739e4ef37bcd" />
 
+
+Problem statement-8
+Reverse a Number 
+<img width="1919" height="1030" alt="Screenshot 2025-08-17 233349" src="https://github.com/user-attachments/assets/1a1ceb84-2d93-44b6-9312-dc0bfcaa1d1b" />
+
+
+Problem statement-9
+Count Digits in a Number
+<img width="1907" height="1032" alt="Screenshot 2025-08-17 233639" src="https://github.com/user-attachments/assets/fecbe92a-746b-400f-9753-7e2111ee5070" />
+
+
+Problem statement-10
+Count Vowels in a String
+<img width="1907" height="1032" alt="Screenshot 2025-08-17 234108" src="https://github.com/user-attachments/assets/4f15bdb9-d69f-452f-bc91-14b0039ae95c" />
+
+
