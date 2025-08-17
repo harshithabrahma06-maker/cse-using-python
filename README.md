@@ -16,3 +16,8 @@ print even or odd number
 Problem statement-4
 print largest three digit numbers
 <img width="1900" height="1041" alt="Screenshot 2025-08-17 230630" src="https://github.com/user-attachments/assets/8e4f94d2-d33f-4110-931e-2ea964df2786" />
+
+
+Problem statement-5
+Calculate Square Root of a Number
+<img width="1902" height="1027" alt="Screenshot 2025-08-17 231653" src="https://github.com/user-attachments/assets/f80cfc3c-08ad-471d-a678-87260d072f71" />
