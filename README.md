@@ -48,3 +48,6 @@ Count Vowels in a String
 <img width="1907" height="1032" alt="Screenshot 2025-08-17 234108" src="https://github.com/user-attachments/assets/4f15bdb9-d69f-452f-bc91-14b0039ae95c" />
 
 
+Problem statement-11
+Word Count in a Sentence 
+<img width="1915" height="1021" alt="image" src="https://github.com/user-attachments/assets/672cc3d2-a6d5-43bf-844a-38f2a6a16b67" />
