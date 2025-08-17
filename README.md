@@ -27,3 +27,8 @@ Problem statement-6
 Print Multiplication Table
 <img width="1907" height="1031" alt="Screenshot 2025-08-17 232526" src="https://github.com/user-attachments/assets/5e245b6d-555d-4fd5-b63e-e01f6f12bc4d" />
 
+
+Problem statement-7
+Check if a Number is Prime 
+<img width="1918" height="1019" alt="Screenshot 2025-08-17 232942" src="https://github.com/user-attachments/assets/4d6423b5-2e4e-4a06-9ae5-739e4ef37bcd" />
+
